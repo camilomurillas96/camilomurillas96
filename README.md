@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camilo <img height="40" src="https://emoji.gg/assets/emoji/8925-blurple-verified.png"></h1>
 <h3 align="center">A passionate Laravel, Angular and Front-End (and a beginner designer) developer from Colombia</h3>
 
-- 🔭 I’m currently working on my **Php Course**
+- 🔭 I’m currently working on my **Spring Boot**
 
 - 🌱 I’m currently learning **Php, Laravel, Java, Javascript, HTML5 and CSS3**
 
