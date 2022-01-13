@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Php Course**
 
-- 🌱 I’m currently learning **Php, Laravel, Angular, Javascript, HTML5 and CSS3**
+- 🌱 I’m currently learning **Php, Laravel, Java, Javascript, HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
