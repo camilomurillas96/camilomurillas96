@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Spring Boot**
 
-- 🌱 I’m currently learning **Php, Laravel, Java, Javascript, HTML5 and CSS3**
+- 🌱 I’m currently learning **Php, Laravel, Java, Javascript, HTML5, CSS3, Microservices and RabbitMQ**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
